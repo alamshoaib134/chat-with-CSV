@@ -1,21 +1,30 @@
-# LLaMA Document Chatbot
+# CSV Chat with LLaMA and LangChain
+
+This project combines LLaMA and LangChain to create a CSV chat interface where users can upload any CSV file and start querying based on its contents.
 
 ## Description
 
-The **LLaMA Document Chatbot** leverages the LLaMA model to interact with and extract insights from your documents. It enables natural language queries, providing responses based on the content of your personalized document set. Ideal for searching, summarizing, and retrieving information efficiently.
+CSV Chat is a powerful tool that allows users to interact with their CSV data through natural language queries. By leveraging the capabilities of LLaMA (Large Language Model Meta AI) and LangChain, this application provides an intuitive way to explore and analyze CSV files.
 
 ## Features
 
-- **Document Interaction**: Chatbot can read and understand user-provided documents.
-- **Natural Language Processing**: Utilizes LLaMA for interpreting and responding to user queries.
-- **Customizable**: Easily add or remove documents to suit your needs.
-- **User-Friendly**: Simple and intuitive command-line interface for interacting with the chatbot.
+- Upload any CSV file
+- Natural language querying of CSV data
+- Powered by LLaMA and LangChain
 
-## Prerequisites
+## Try It Out
 
-Before you begin, ensure you have met the following requirements:
+You can try the CSV Chat application on Hugging Face Spaces:
 
-- Python 3.7 or higher
-- `pip` package manager
-- LLaMA model files (pre-trained or fine-tuned as required)
-- Relevant dependencies installed (listed below)
+[CSV Chat on Hugging Face](https://huggingface.co/spaces/alamshoaib134/CSV_Chat/blob/main/app.py)
+
+## How to Use
+
+1. Visit the Hugging Face Spaces link
+2. Upload your CSV file
+3. Start querying your data using natural language
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
