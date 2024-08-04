@@ -28,3 +28,4 @@ You can try the CSV Chat application on Hugging Face Spaces:
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
+![image](https://github.com/user-attachments/assets/c517a4d1-82eb-441b-b40a-7c849094b062)
